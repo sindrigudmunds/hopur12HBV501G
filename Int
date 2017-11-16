@@ -1,0 +1,22 @@
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes not staged for commit:
+	modified:   .DS_Store
+	modified:   src/.DS_Store
+	modified:   src/main/.DS_Store
+	modified:   src/main/java/.DS_Store
+	modified:   src/main/java/is/.DS_Store
+	modified:   src/main/java/is/hi/.DS_Store
+	modified:   src/main/java/is/hi/hopur12/.DS_Store
+	modified:   src/main/java/is/hi/hopur12/controller/GreetingController.java
+	modified:   src/main/java/is/hi/hopur12/model/Nutrition.java
+	modified:   src/main/java/is/hi/hopur12/model/User.java
+	modified:   src/main/java/is/hi/hopur12/services/UserService.java
+	modified:   src/main/java/is/hi/hopur12/services/UserServiceImp.java
+	modified:   src/main/webapp/WEB-INF/vefvidmot/greeting/userInfo.jsp
+
+Untracked files:
+	Int
+	src/main/webapp/WEB-INF/vefvidmot/greeting/justInfo.jsp
+
+no changes added to commit
